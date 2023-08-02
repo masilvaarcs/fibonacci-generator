@@ -9,7 +9,7 @@ Este é um exemplo simples de um gerador Python para calcular a série de Fibona
 2. Clone este repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/fibonacci_generator.git
+   git clone https://github.com/masilvaarcs/fibonacci_generator.git
    ```
 
 3. Navegue até o diretório "fibonacci_generator":
